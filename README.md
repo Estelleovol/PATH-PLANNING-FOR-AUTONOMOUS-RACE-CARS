@@ -31,14 +31,6 @@ This repository implements a path-planning pipeline designed for autonomous race
 8. **Visualization**
    - Generate insightful plots and heatmaps for path visualization.
 
-## Requirements
-- Python 3.x
-- Required libraries: NumPy, SciPy, Matplotlib, Pandas, etc.
-
-## Usage
-```bash
-python main.py --track track_file.csv
-```
 
 ## Visualization
 Sample visualizations (plots and heatmaps) illustrating optimized paths are provided.
