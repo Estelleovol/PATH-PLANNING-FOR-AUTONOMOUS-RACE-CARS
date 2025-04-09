@@ -35,8 +35,6 @@ This repository implements a path-planning pipeline designed for autonomous race
 ## Visualization
 Sample visualizations (plots and heatmaps) illustrating optimized paths are provided.
 
-## License
-This project is licensed under the MIT License.
 
 ---
 
